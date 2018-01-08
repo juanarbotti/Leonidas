@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="29.29003mm"
+   height="41.632965mm"
+   viewBox="0 0 29.290029 41.632965"
+   version="1.1"
+   id="svg4701"
+   sodipodi:docname="leader.svg"
+   inkscape:version="0.92.1 r15371"
+   inkscape:export-filename="/home/juanar/Escritorio/Infografía SVB/iconos/leader.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title5410">Leónidas Life Support Icon Set</title>
+  <defs
+     id="defs4695" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="16.964422"
+     inkscape:cy="44.188672"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g5338"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1362"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4698">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Leónidas Life Support Icon Set</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Arbotti Juan Manuel</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Creative Commons</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>This is an icon set to use in any project realted to basic or advanced life support. Please, don't forge to mention the author in bilbiography.</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>life support</rdf:li>
+            <rdf:li>medical</rdf:li>
+            <rdf:li>cpr</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.057361,-18.403753)">
+    <g
+       id="g4705"
+       transform="matrix(0.33971987,0,0,0.33971987,11.36357,20.277033)">
+      <g
+         id="g5408"
+         transform="translate(-8.6227382,-5.4902534)">
+        <path
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48900044;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.74834645;stroke-opacity:1"
+           d="M 16.639418,0.94496279 20.92144,-0.02393661 23.192779,15.066489 20.906626,15.58378 Z"
+           id="rect4576"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <circle
+           transform="rotate(-12.749703)"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48900044;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.74834645;stroke-opacity:1"
+           id="path4581"
+           cx="18.179153"
+           cy="22.667149"
+           r="2.0853801" />
+        <g
+           id="g5338"
+           transform="translate(8.6228501,2.0793992)">
+          <path
+             style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.6216675;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.74834645;stroke-opacity:1"
+             d="m 77.742188,62.310547 c -2.484839,-0.002 -5.004124,1.273055 -6.603516,3.611328 L 53.228516,92.107422 c -0.18892,0.276196 -0.353576,0.561826 -0.50586,0.849609 -0.195263,0.248637 -0.383921,0.505897 -0.554687,0.785157 -1.894009,3.097336 -1.421114,6.828942 1.058593,8.365232 l 17.902344,11.0918 c 0.673662,0.41736 1.425345,0.6223 2.199219,0.64648 v 2.12696 c 0,2.71998 1.065315,5.17493 2.792969,6.97265 -0.26924,1.13811 -0.417969,2.35093 -0.417969,3.61524 v 44.64843 c 0,6.45274 3.787069,11.64844 8.492187,11.64844 4.70512,0 8.492188,-5.1957 8.492188,-11.64844 v -44.64843 c 0,-0.20264 -0.0141,-0.39958 -0.02148,-0.59961 h 2.082031 c -0.0074,0.20003 -0.02148,0.39697 -0.02148,0.59961 v 44.64843 c 0,6.45274 3.787068,11.64844 8.492189,11.64844 4.70512,0 8.49414,-5.1957 8.49414,-11.64844 v -44.64843 c 0,-1.20636 -0.13288,-2.36824 -0.37891,-3.46094 1.81605,-1.80989 2.94141,-4.32906 2.94141,-7.12695 V 79.681641 l 14.27344,8.683593 c 1.75202,1.065785 3.7372,1.270605 5.45703,0.736328 0.53458,5.69e-4 1.06909,-0.06067 1.58984,-0.205078 l 22.42383,-6.21875 c 3.10552,-0.861155 4.52546,-4.080487 3.18555,-7.21875 -1.33991,-3.138261 -4.91792,-4.97053 -8.02344,-4.109375 l -19.54883,5.419922 -21.74609,-13.228515 c -1.54173,-0.93786 -3.26449,-1.208029 -4.82813,-0.896485 -0.10868,-0.03035 -0.22392,-0.04338 -0.33398,-0.07031 -2.93478,4.243574 -7.828853,7.027343 -13.378908,7.027343 -5.488461,0 -10.33214,-2.726429 -13.277344,-6.890624 -0.752288,-0.265504 -1.536528,-0.399746 -2.326171,-0.400391 z m -4.414063,26.347656 v 10.486328 l -5.037109,-3.121093 z"
+             transform="matrix(0.77882796,0,0,0.77882796,-40.627214,-21.96694)"
+             id="rect4501-3"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="sssss"
+             inkscape:connector-curvature="0"
+             id="path5319"
+             d="m 43.853634,19.280756 c 0,6.506626 -5.274662,11.781288 -11.781288,11.781289 -6.506626,0 -11.781289,-5.274662 -11.781289,-11.781289 0,-6.506626 5.274663,-11.7812882 11.781289,-11.7812882 6.506626,6e-7 11.781288,5.2746632 11.781288,11.7812882 z"
+             style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.31693673;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.74834645;stroke-opacity:1"
+             inkscape:export-filename="/home/juanar/Escritorio/Infografía SVB/iconos/png/leader.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
