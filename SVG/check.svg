@@ -16,6 +16,8 @@
    id="svg6232"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="check.svg">
+  <title
+     id="title4512">Leónidas Life Support Icon Set</title>
   <defs
      id="defs6226" />
   <sodipodi:namedview
@@ -25,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="22.909744"
-     inkscape:cy="109.74505"
+     inkscape:zoom="3.041935"
+     inkscape:cx="-125.17212"
+     inkscape:cy="78.163018"
      inkscape:document-units="mm"
      inkscape:current-layer="g5676"
      showgrid="false"
@@ -49,7 +51,27 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Leónidas Life Support Icon Set</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Arbotti Juan Manuel</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>GNU GPL V3</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.en.html" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>life support</rdf:li>
+            <rdf:li>medical</rdf:li>
+            <rdf:li>cpr</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>This is an icon set to use in any project realted to basic or advanced life support. Please, don't forge to mention the author in bilbiography.</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>

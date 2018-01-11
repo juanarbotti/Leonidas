@@ -16,6 +16,8 @@
    id="svg5522"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="rescue-medic.svg">
+  <title
+     id="title4485">Leónidas Life Support Icon Set</title>
   <defs
      id="defs5516" />
   <sodipodi:namedview
@@ -25,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9195959"
-     inkscape:cx="4.8782171"
-     inkscape:cy="104.1226"
+     inkscape:zoom="34.415564"
+     inkscape:cx="-13.137111"
+     inkscape:cy="103.74892"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +50,27 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>Leónidas Life Support Icon Set</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Arbotti Juan Manuel</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>GNU GPL V3</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>life support</rdf:li>
+            <rdf:li>medical</rdf:li>
+            <rdf:li>cpr</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>This is an icon set to use in any project realted to basic or advanced life support. Please, don't forget to mention the author in bilbiography.</dc:description>
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.en.html" />
       </cc:Work>
     </rdf:RDF>
   </metadata>
