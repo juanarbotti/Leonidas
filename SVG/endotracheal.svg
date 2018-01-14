@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10.493241mm"
+   height="9.8638048mm"
+   viewBox="0 0 10.493242 9.8638048"
+   version="1.1"
+   id="svg5522"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="endotracheal.svg"
+   inkscape:export-filename="/home/juanar/Documentos/Proyectos/leonidas/PNG/endotracheal.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <title
+     id="title4485">Leónidas Life Support Icon Set</title>
+  <defs
+     id="defs5516" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.3047742"
+     inkscape:cx="-25.053993"
+     inkscape:cy="-3.1330879"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g4601"
+     showgrid="false"
+     inkscape:window-width="1362"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false" />
+  <metadata
+     id="metadata5519">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Leónidas Life Support Icon Set</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Arbotti Juan Manuel</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>GNU GPL V3</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>life support</rdf:li>
+            <rdf:li>medical</rdf:li>
+            <rdf:li>cpr</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>This is an icon set to use in any project realted to basic or advanced life support. Please, don't forget to mention the author in bilbiography.</dc:description>
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.en.html" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-110.9944,-188.83836)">
+    <g
+       id="g4549"
+       transform="matrix(0.99809838,-0.06164111,0.05470087,0.88572144,-7.6740703,35.109669)">
+      <g
+         id="g4601">
+        <g
+           id="g5306">
+          <path
+             id="rect4516"
+             transform="matrix(0.2640802,0.01837846,-0.01630921,0.29758568,105.84424,179.44089)"
+             d="m 15.773438,10.705078 -1.730469,0.486328 c 3.430472,12.095813 9.775767,21.087644 19.90625,26.048828 l 0.611328,-1.83789 C 28.284333,32.192655 23.398991,27.290073 19.777344,20.550781 l -0.738282,0.31836 -0.15039,-0.34375 0.714844,-0.308594 c -0.269744,-0.512218 -0.531635,-1.035209 -0.78711,-1.568359 L 18.148438,18.9375 18,18.59375 18.65625,18.308594 c -0.25638,-0.545896 -0.506244,-1.102288 -0.748047,-1.669922 l -0.703125,0.304687 -0.148437,-0.34375 0.705078,-0.304687 c -0.193002,-0.462206 -0.380885,-0.933667 -0.564453,-1.410156 l -0.615235,0.265625 -0.148437,-0.34375 0.626953,-0.271485 C 16.883312,14.065798 16.713208,13.58661 16.544922,13.103516 L 15.957031,13.359375 15.808594,13.015625 16.419922,12.75 c -0.226767,-0.664163 -0.435921,-1.355699 -0.646484,-2.044922 z m 30.470703,28.488281 c -0.0017,0.0052 -0.0022,0.01042 -0.0039,0.01563 L 45.6875,40.873047 c 1.483117,0.242891 3.013615,0.435549 4.607422,0.560547 0.145424,0.01249 0.265161,0.09903 0.351562,0.002 l 1.078125,-1.207031 c 0.08678,-0.097 0.104706,-0.3404 -0.04102,-0.351563 -1.885649,-0.149369 -3.698898,-0.376951 -5.439453,-0.683594 z"
+             style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57902163;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.74834645;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             id="rect5244"
+             d="m 115.12781,190.46916 1.84018,0.83201 c 0.22193,0.10034 0.3328,0.35356 0.25555,0.57054 l -0.24633,0.69184 c -0.0773,0.21698 -0.31204,0.31178 -0.53397,0.21144 l -1.84019,-0.83201 c -0.22193,-0.10034 -0.33346,-0.35172 -0.2562,-0.56871 l 0.24633,-0.69183 c 0.0773,-0.21699 0.3127,-0.31362 0.53463,-0.21328 z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.21230885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.74834645;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             inkscape:connector-curvature="0" />
+          <path
+             id="rect5248"
+             d="m 108.95453,181.37053 0.71935,-0.17461 0.25003,1.53444 -0.71935,0.17461 z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.16026649;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.74834645;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.1783123mm"
+   height="32.565453mm"
+   viewBox="0 0 8.1783122 32.565452"
+   version="1.1"
+   id="svg5522"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="oxigen.svg"
+   inkscape:export-filename="/home/juanar/Documentos/Proyectos/leonidas/PNG/oxigen.png"
+   inkscape:export-xdpi="397.54001"
+   inkscape:export-ydpi="397.54001">
+  <title
+     id="title4485">Leónidas Life Support Icon Set</title>
+  <defs
+     id="defs5516" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.2419754"
+     inkscape:cx="38.407451"
+     inkscape:cy="44.261226"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1362"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5519">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Leónidas Life Support Icon Set</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Arbotti Juan Manuel</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>GNU GPL V3</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>life support</rdf:li>
+            <rdf:li>medical</rdf:li>
+            <rdf:li>cpr</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>This is an icon set to use in any project realted to basic or advanced life support. Please, don't forget to mention the author in bilbiography.</dc:description>
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.en.html" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-112.88406,-188.24534)">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.09537911;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.74834645;stroke-opacity:1"
+       d="M 9.7636719 0 L 10.886719 16.480469 L 10.083984 16.480469 C 4.4976278 16.480469 1.1842379e-15 21.458354 0 27.642578 L 0 111.91992 C 0 118.10415 4.4976278 123.08203 10.083984 123.08203 L 20.826172 123.08203 C 26.412529 123.08203 30.910156 118.10415 30.910156 111.91992 L 30.910156 27.642578 C 30.910156 21.458354 26.412529 16.480469 20.826172 16.480469 L 20.107422 16.480469 L 21.146484 0 L 9.7636719 0 z M 11.125 2.4765625 L 19.785156 2.4765625 L 18.900391 16.480469 L 17.65625 16.480469 L 17.65625 11.816406 C 17.031494 12.25808 16.272161 12.523438 15.451172 12.523438 C 14.632866 12.523438 13.879519 12.261258 13.255859 11.822266 L 13.255859 16.480469 L 12.076172 16.480469 L 11.125 2.4765625 z M 0.10546875 26.896484 L 30.71875 26.896484 L 30.71875 27.126953 L 0.10546875 27.126953 L 0.10546875 26.896484 z M 12.427734 50.117188 L 13.630859 50.117188 C 14.204802 50.117188 14.742911 50.227124 15.246094 50.447266 C 15.749276 50.659546 16.189019 50.952692 16.566406 51.330078 C 16.943793 51.707465 17.238892 52.149162 17.451172 52.652344 C 17.671314 53.155526 17.78125 53.693636 17.78125 54.267578 L 17.78125 63.347656 C 17.78125 63.921595 17.671314 64.461662 17.451172 64.964844 C 17.238892 65.468026 16.943793 65.907769 16.566406 66.285156 C 16.189019 66.662539 15.749276 66.961499 15.246094 67.181641 C 14.742911 67.393921 14.204802 67.5 13.630859 67.5 L 12.427734 67.5 C 11.853792 67.5 11.311826 67.393921 10.800781 67.181641 C 10.297599 66.961499 9.8558986 66.662539 9.4785156 66.285156 C 9.1011286 65.907769 8.8021732 65.468026 8.5820312 64.964844 C 8.3697514 64.461662 8.2636719 63.921595 8.2636719 63.347656 L 8.2636719 54.267578 C 8.2636719 53.693636 8.3697514 53.155526 8.5820312 52.652344 C 8.8021732 52.149162 9.1011286 51.707465 9.4785156 51.330078 C 9.8558986 50.952692 10.297599 50.659546 10.800781 50.447266 C 11.311826 50.227124 11.853792 50.117188 12.427734 50.117188 z M 12.498047 51.566406 C 12.12066 51.566406 11.767713 51.637777 11.4375 51.779297 C 11.115149 51.920817 10.827763 52.113693 10.576172 52.357422 C 10.332443 52.601151 10.139567 52.888537 9.9980469 53.21875 C 9.8565269 53.541102 9.7851563 53.890192 9.7851562 54.267578 L 9.7851562 63.347656 C 9.7851562 63.725039 9.8565259 64.079942 9.9980469 64.410156 C 10.139567 64.732504 10.332443 65.019892 10.576172 65.271484 C 10.827763 65.515213 11.115149 65.706135 11.4375 65.847656 C 11.767713 65.989173 12.12066 66.060547 12.498047 66.060547 L 13.560547 66.060547 C 13.937934 66.060547 14.287024 65.989176 14.609375 65.847656 C 14.939588 65.706135 15.226974 65.515213 15.470703 65.271484 C 15.714432 65.019892 15.907308 64.732504 16.048828 64.410156 C 16.190348 64.079942 16.259766 63.725039 16.259766 63.347656 L 16.259766 54.267578 C 16.259766 53.890192 16.190346 53.541102 16.048828 53.21875 C 15.907308 52.888537 15.714432 52.601151 15.470703 52.357422 C 15.226974 52.113693 14.939588 51.920817 14.609375 51.779297 C 14.287024 51.637777 13.937934 51.566405 13.560547 51.566406 L 12.498047 51.566406 z M 19.632812 67.787109 L 19.998047 67.787109 C 20.289556 67.787109 20.56279 67.839529 20.818359 67.943359 C 21.077922 68.047184 21.304417 68.196908 21.496094 68.392578 C 21.687771 68.588249 21.837496 68.824073 21.945312 69.099609 C 22.057124 69.371151 22.113281 69.678062 22.113281 70.021484 C 22.113281 70.360912 22.060861 70.703454 21.957031 71.046875 C 21.857201 71.390297 21.724359 71.727152 21.556641 72.058594 C 21.392919 72.390036 21.201965 72.711963 20.986328 73.023438 C 20.774685 73.334911 20.557607 73.628761 20.333984 73.904297 C 19.810866 74.547214 19.21757 75.164768 18.554688 75.759766 L 22.171875 75.759766 L 22.171875 76.498047 L 17.337891 76.498047 L 17.337891 75.886719 C 18.084633 75.271755 18.752833 74.635452 19.339844 73.976562 C 19.59142 73.693041 19.836575 73.389774 20.076172 73.070312 C 20.315768 72.750852 20.529113 72.423326 20.716797 72.087891 C 20.904481 71.748463 21.054204 71.406009 21.166016 71.058594 C 21.281818 70.707186 21.339844 70.360912 21.339844 70.021484 C 21.339844 69.769907 21.302434 69.550965 21.226562 69.363281 C 21.150694 69.1756 21.047706 69.020275 20.919922 68.896484 C 20.792137 68.772692 20.646231 68.680993 20.478516 68.621094 C 20.314791 68.557204 20.142589 68.525391 19.962891 68.525391 L 19.667969 68.525391 C 19.476292 68.525391 19.296624 68.560932 19.128906 68.632812 C 18.965182 68.704692 18.82301 68.801992 18.699219 68.925781 C 18.575427 69.049573 18.476176 69.195566 18.404297 69.363281 C 18.332417 69.527006 18.296875 69.704807 18.296875 69.896484 L 18.296875 70.244141 L 17.525391 70.117188 L 17.525391 69.896484 C 17.525391 69.604975 17.57773 69.331742 17.685547 69.076172 C 17.797358 68.820603 17.948948 68.595974 18.140625 68.404297 C 18.332302 68.21262 18.55693 68.062897 18.8125 67.955078 C 19.068069 67.843267 19.341306 67.787109 19.632812 67.787109 z M 0.1484375 113.04297 L 30.761719 113.04297 L 30.761719 113.27344 L 0.1484375 113.27344 L 0.1484375 113.04297 z "
+       transform="matrix(0.26458333,0,0,0.26458333,112.88406,188.24534)"
+       id="rect4486" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2090105;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.74834645;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 116.97196,189.73942 c 0.44624,0 0.80721,0.35845 0.80721,0.80469 0,0.44622 -0.36097,0.80719 -0.80721,0.80719 -0.44622,0 -0.80466,-0.36097 -0.80466,-0.80719 0,-0.44624 0.35844,-0.80469 0.80466,-0.80469 z"
+       id="path4506"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

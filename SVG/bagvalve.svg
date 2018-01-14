@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="109.63245mm"
+   height="27.367081mm"
+   viewBox="0 0 109.63244 27.36708"
+   version="1.1"
+   id="svg5522"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="bagvalve.svg"
+   inkscape:export-filename="/home/juanar/Documentos/Proyectos/leonidas/PNG/bagvalve.png"
+   inkscape:export-xdpi="299.78351"
+   inkscape:export-ydpi="299.78351">
+  <title
+     id="title4485">Leónidas Life Support Icon Set</title>
+  <defs
+     id="defs5516" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.7222958"
+     inkscape:cx="249.41038"
+     inkscape:cy="16.633365"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1362"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5519">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Leónidas Life Support Icon Set</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Arbotti Juan Manuel</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>GNU GPL V3</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>life support</rdf:li>
+            <rdf:li>medical</rdf:li>
+            <rdf:li>cpr</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>This is an icon set to use in any project realted to basic or advanced life support. Please, don't forget to mention the author in bilbiography.</dc:description>
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.en.html" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-34.676477,-224.40099)">
+    <path
+       sodipodi:nodetypes="ccccccccccccsssscccscccccccccccscccccc"
+       inkscape:connector-curvature="0"
+       id="path4485"
+       d="m 105.77484,224.55099 c -9.426897,10e-6 -22.342777,2.93461 -27.478427,7.18922 -0.38052,0.31525 -0.68284,0.63441 -0.92604,0.95757 v 2.52698 c 26.286047,-10.80811 52.160717,-0.16986 52.276907,-0.12196 v -0.82424 c -3.10503,-5.76112 -12.82234,-9.72464 -23.87244,-9.72757 z m 24.59591,9.78287 v 7.50186 h 2.68821 v -7.50186 z m -57.043537,0.1266 c -0.10204,0 -0.18449,0.0819 -0.18449,0.18397 v 4.11913 c 0,0.10204 0.0824,0.18397 0.18449,0.18397 h 3.15846 c 2.2e-4,0.4298 0.007,0.85643 0.0331,1.27847 v -5.76554 z m 56.320067,0.64647 c -16.56383,-4.88253 -33.672247,-6.58824 -52.276907,0.43409 v 4.82657 c 13.08033,4.61794 27.098827,8.27165 52.276907,0.45579 z m -52.276907,5.59605 v 2.64273 c 0.36766,0.61819 0.88468,1.20951 1.62471,1.76268 5.2484,3.9232 17.66067,6.50967 26.779757,6.50968 11.0559,-0.005 20.77606,-3.97401 23.87244,-9.74101 v -1.05316 c -0.011,0.005 -11.97206,5.18702 -27.89469,4.9541 -7.52381,-0.11005 -15.932156,-1.4292 -24.382217,-5.07502 z m -0.85163,0.0284 -2.52646,0.18758 0.032,0.94568 2.49442,0.12403 z"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.74834645;stroke-opacity:1" />
+    <path
+       id="rect4489"
+       d="m 138.2297,229.98838 v 2.53318 h -4.1553 v 11.1156 h 10.23452 v -11.1156 h -4.15582 v -2.53318 z"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.01400006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.74834645;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect4516"
+       d="m 134.86499,227.96414 h 8.56268 v 1.40489 h -8.56268 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.05021369;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.74834645;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       y="244.31622"
+       x="136.11461"
+       height="6.1541028"
+       width="6.1541028"
+       id="rect4539"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.01400006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.74834645;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ssssssssssssss"
+       inkscape:connector-curvature="0"
+       id="path4591"
+       d="m 72.498373,236.6447 c 0,0.84785 0.23865,1.77089 -0.2713,2.2014 -1.66368,1.40451 -6.48666,0.62675 -13.125,0.62402 -1.52401,-6.4e-4 -3.71659,1.27119 -5.64426,1.4449 -1.75648,0.15829 -2.71665,1.39946 -2.71665,1.39946 -0.15098,0.90494 -1.40767,1.85448 -2.54842,2.42038 -1.35436,0.67187 -3.22262,1.00141 -4.22947,1.69102 -3.75395,2.57115 -8.38613,-0.14353 -8.38613,-1.83213 0,-0.68361 -1.60576,-4.12746 -0.52914,-6.62345 0.64456,-1.49434 3.56667,-1.99088 4.70338,-3.18549 1.92578,-2.02386 5.76398,-2.26474 6.87948,-2.53484 2.94029,-0.71192 6.18117,-0.174 14.52258,0.92827 6.18202,0.81691 9.97369,0.29228 11.25989,1.32697 0.50274,0.40443 0.085,1.1239 0.085,2.13949 z"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.66499996;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.74834645;stroke-opacity:1" />
+  </g>
+</svg>
