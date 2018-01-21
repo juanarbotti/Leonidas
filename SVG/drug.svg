@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.624512mm"
+   height="187.71565mm"
+   viewBox="0 0 38.624512 187.71565"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="drug.svg">
+  <title
+     id="title4485">Leónidas Life Support Icon Set</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.36480769"
+     inkscape:cx="9.2625373"
+     inkscape:cy="436.69331"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1362"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Leónidas Life Support Icon Set</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Arbotti Juan Manuel</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>GNU GPL V3</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>life support</rdf:li>
+            <rdf:li>medical</rdf:li>
+            <rdf:li>cpr</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>This is an icon set to use in any project realted to basic or advanced life support. Please, don't forget to mention the author in bilbiography.</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-78.734828,-7.8084024)">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09551321;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.74834645;stroke-opacity:1"
+       d="m 97.798778,7.8094065 c -2.86863,0.07854 -6.83369,3.9656495 -6.83369,3.9656495 -4.38852,4.075307 -2.44415,14.764588 -2.62982,27.163201 l -1.32343,10.284126 -2.14974,10.323401 0.0341,5.867858 c 0.0112,1.938493 2.588,3.23768 2.6634,6.115904 H 109.1402 c 0.0754,-2.878224 2.65215,-4.177411 2.6634,-6.115904 l 0.0341,-5.867858 -2.14974,-10.323401 -1.32395,-10.284126 c -0.18566,-12.398613 1.75819,-23.087894 -2.63033,-27.163201 0,0 -4.50377,-4.4138975 -7.384052,-3.9253425 -0.17849,-0.03028 -0.36135,-0.0455 -0.55087,-0.04031 z m 0.92553,1.853117 c 1.554422,0.01199 3.023612,0.7181885 4.072102,2.5895065 -1.82739,-1.511127 -4.391982,-0.715719 -4.391982,-0.715719 -3.10665,0.842968 -5.622,1.359665 -7.00939,5.923669 -1.85505,1.139798 -1.81644,1.122389 -1.16634,-0.374653 0.62979,-1.450287 2.19263,-4.728778 3.91191,-5.848223 1.38947,-0.904707 3.02927,-1.5865675 4.5837,-1.5745805 z M 87.406128,73.342874 c -0.0617,0.57055 -0.11294,1.094631 -0.13797,1.527556 -0.36024,0.808688 -0.67361,1.714484 -0.92863,2.700094 h -0.96583 c -3.67773,0 -6.63887,2.51574 -6.63887,5.640994 V 189.88253 c 0,3.12526 2.96114,5.64152 6.63887,5.64152 h 25.346772 c 3.67773,0 6.63887,-2.51626 6.63887,-5.64152 V 83.211518 c 0,-3.125254 -2.96114,-5.640994 -6.63887,-5.640994 h -0.49299 c -0.21573,-0.943258 -0.48239,-1.822839 -0.79272,-2.621548 -0.0237,-0.45086 -0.0766,-1.002395 -0.14159,-1.606102 z m -4.18372,12.176514 c 0.849658,0.0012 1.538405,11.624775 1.5384,25.962762 -1.2e-5,14.33778 -0.688754,25.96107 -1.5384,25.96224 -0.84965,-0.001 -1.538398,-11.62439 -1.53841,-25.96224 -5e-6,-14.338047 0.688748,-25.961686 1.53841,-25.962762 z m 31.786172,83.525142 c 1.65512,0.21723 0.39119,13.9436 0.39119,18.94716 h 5.2e-4 c 0,2.12182 -0.62971,3.30929 -1.59887,3.96978 -1.46861,1.00086 -4.61479,0.92025 -6.63558,0.92024 -3.35434,-1e-5 5.87955,1.70285 5.87955,-3.63428 0,-5.33714 -1.00709,-17.93899 1.59216,-20.05924 0.13752,-0.11219 0.26069,-0.15815 0.37103,-0.14366 z"
+       id="rect4515"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccsssssssscccccscsccccccscc" />
+  </g>
+</svg>
